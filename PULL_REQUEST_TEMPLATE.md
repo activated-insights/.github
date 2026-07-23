@@ -8,4 +8,4 @@
 <!-- How you did it and any decisions worth explaining — especially an unusual choice or a tradeoff. Cover what the diff can't; trust the diff for the rest. -->
 
 ## Testing
-<!-- How you verified the change: tests you wrote, manual checks and where you ran them, edge cases considered. Be specific rather than "tested locally." Note if it doesn't apply. -->
+<!-- How you verified the change: tests you wrote, manual checks and where you ran them, edge cases considered. Be specific rather than "tested locally." State the final result, not a play-by-play of how development went (detours, bugs fixed mid-work). Note if it doesn't apply. -->
